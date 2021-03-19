@@ -1,0 +1,51 @@
+body {
+  margin: 0 auto;
+  background-color: #D1D7D9;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.wish {
+  margin: auto;
+  padding: 20px;
+  background-color: #222831;
+  border: 0.5em solid #A6BECF;
+  border-radius: 1em;
+  height: 25em;
+}
+
+.wish:hover {
+  border: 0.5em solid #f05454
+}
+
+.face {
+  margin: 10px;
+  background-color: #222831;
+  border: 0.5em solid #A6BECF;
+  border-radius: 1em;
+  height: 400px;
+  float: left;
+}
+
+.face:hover {
+  border: 0.5em solid #f05454
+}
+
+.side-note {
+  margin: 10px;
+  text-align: left;
+  font-size: 1.25em;
+  line-height: 1em;
+  padding: 0.5em;
+  background-color: #30475e;
+  border: 0.5em solid #A6BECF;
+  border-radius: 1em;
+  color: #dddddd;
+}
+
+.side-note:hover {
+  border: 0.5em solid #f05454
+}
+
+.stand {
+  display: block;
+}

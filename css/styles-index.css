@@ -1,0 +1,21 @@
+body{
+  margin: 2%;
+}
+
+p {
+  margin: 0;
+}
+
+.title {
+  font-family: 'Syne Mono', monospace;
+  color: #810000;
+}
+
+.landscape {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.5rem;
+}
+
+#top {
+  background-color: #eeebdd;
+}
